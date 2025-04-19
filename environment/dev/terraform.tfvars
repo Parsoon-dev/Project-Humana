@@ -1,17 +1,17 @@
-# vrg_module = {
+vrg_module = {
 
-#     rg1 = {
+    rg1 = {
 
-#         name = "r1"
-#         location = "West Europe"        
-#     }
+        name = "r1"
+        location = "West Europe"        
+    }
 
-#     rg2 = {
+    rg2 = {
 
-#         name = "r2"
-#         location ="West Europe"
-#     }
-# }
+        name = "r2"
+        location ="West Europe"
+    }
+}
 
 # subnet = {
 #     subnet1 ={
