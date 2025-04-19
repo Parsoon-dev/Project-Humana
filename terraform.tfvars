@@ -1,1 +1,0 @@
-# rg_list = ["rg_kje", "rg_oir","rg_ewr" ]
