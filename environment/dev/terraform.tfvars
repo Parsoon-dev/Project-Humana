@@ -13,11 +13,11 @@
 #     }
 # }
 
-subnet = {
-    subnet1 ={
- name = "subnet27"
- resource_group_name = "rg-test"
- virtual_network_name = "test-vnet"
- address_prefixes     = ["10.0.3.0/24"]  
-    } 
-}
+# subnet = {
+#     subnet1 ={
+#  name = "subnet27"
+#  resource_group_name = "rg-test"
+#  virtual_network_name = "test-vnet"
+#  address_prefixes     = ["10.0.3.0/24"]  
+#     } 
+# }
